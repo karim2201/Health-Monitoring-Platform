@@ -28,4 +28,4 @@ Plateforme de télésurveillance médicale simulant des appareils connectés (we
 
 Le projet utilise une architecture microservices orchestrée par Docker Compose :
 
-![Diagramme d'Architecture de la Plateforme IoMT](URL_COMPLÈTE_DE_L_IMAGE_SUR_GITHUB)
+![Diagramme d'Architecture de la Plateforme IoMT](Gemini_Generated_Image_mps1cimps1cimps1.png)
