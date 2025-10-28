@@ -79,3 +79,6 @@ graph TD
     style TSDB fill:#ff9,stroke:#333,stroke-width:2px
     style MDB fill:#ff9,stroke:#333,stroke-width:2px
     style RDB fill:#ff9,stroke:#333,stroke-width:2px
+    style TSDB fill:#ff9,stroke:#333,stroke-width:2px
+    style MDB fill:#ff9,stroke:#333,stroke-width:2px
+    style RDB fill:#ff9,stroke:#333,stroke-width:2px
