@@ -2,10 +2,10 @@
 
 Plateforme de télésurveillance médicale simulant des appareils connectés (wearables) pour le suivi en temps réel de la santé des patients avec alertes intelligentes et tableaux de bord multi-rôles. Ce projet a été développé dans le cadre d'un Projet de Fin d'Études (PFE).
 
-[![Dashboard Normal](URL_DE_VOTRE_CAPTURE_D_ECRAN_NORMALE_SUR_GITHUB)](URL_DE_VOTRE_CAPTURE_D_ECRAN_NORMALEE_SUR_GITHUB)
+[![Dashboard Normal](Capture d'écran 2025-10-28 093732.png)](Capture d'écran 2025-10-28 093732.png)
 *Dashboard Patient affichant les données vitales en temps réel.*
 
-[![Dashboard Alerte](URL_DE_VOTRE_CAPTURE_D_ECRAN_ALERTE_SUR_GITHUB)](URL_DE_VOTRE_CAPTURE_D_ECRAN_ALERTE_SUR_GITHUB)
+[![Dashboard Alerte]Capture d'écran 2025-10-28 093732.png)](Capture d'écran 2025-10-28 093732.png)
 *Notification d'alerte critique (Tachycardie) affichée sur le dashboard.*
 
 ## ✨ Fonctionnalités Principales
