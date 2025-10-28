@@ -41,7 +41,7 @@ graph TD
     subgraph Simulation
         SIM[Device Simulator (Node.js)]
     end
-    
+
     subgraph Intelligence
         AE[Alert Engine (Node.js)]
         ML[ML Service (Python - Port 5000)]
@@ -70,15 +70,12 @@ graph TD
     AE -- Mongoose Write --> MDB[Alerts Collection]
 
     GW -- Mongoose Read/Write --> MDB[Users Collection]
-    
+
     style F fill:#f9f,stroke:#333,stroke-width:2px
     style GW fill:#ccf,stroke:#333,stroke-width:2px
     style SIM fill:#cfc,stroke:#333,stroke-width:2px
     style AE fill:#fcf,stroke:#333,stroke-width:2px
     style ML fill:#fcf,stroke:#333,stroke-width:2px
-    style TSDB fill:#ff9,stroke:#333,stroke-width:2px
-    style MDB fill:#ff9,stroke:#333,stroke-width:2px
-    style RDB fill:#ff9,stroke:#333,stroke-width:2px
     style TSDB fill:#ff9,stroke:#333,stroke-width:2px
     style MDB fill:#ff9,stroke:#333,stroke-width:2px
     style RDB fill:#ff9,stroke:#333,stroke-width:2px
