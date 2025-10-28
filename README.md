@@ -2,10 +2,10 @@
 
 Plateforme de télésurveillance médicale simulant des appareils connectés (wearables) pour le suivi en temps réel de la santé des patients avec alertes intelligentes et tableaux de bord multi-rôles. Ce projet a été développé dans le cadre d'un Projet de Fin d'Études (PFE).
 
-[![Dashboard Normal](Capture d'écran 2025-10-28 093732.png)](Capture d'écran 2025-10-28 093732.png)
+[![Dashboard Normal](Capture%20d'%C3%A9cran%202025-10-28%20093732.png)](Capture%20d'%C3%A9cran%202025-10-28%20093732.png)
 *Dashboard Patient affichant les données vitales en temps réel.*
 
-[![Dashboard Alerte]Capture d'écran 2025-10-28 093732.png)](Capture d'écran 2025-10-28 093732.png)
+[![Dashboard Alerte](Capture%20d'%C3%A9cran%202025-10-28%20093751.png)](Capture%20d'%C3%A9cran%202025-10-28%20093751.png)
 *Notification d'alerte critique (Tachycardie) affichée sur le dashboard.*
 
 ## ✨ Fonctionnalités Principales
@@ -21,7 +21,7 @@ Plateforme de télésurveillance médicale simulant des appareils connectés (we
 * **Documentation API :** Interface Swagger UI interactive pour explorer et tester l'API backend.
 * **Architecture Microservices :** Structure modulaire basée sur Docker Compose pour une meilleure scalabilité et maintenance.
 
-[![Logs Anti-Spam](URL_DE_VOTRE_CAPTURE_D_ECRAN_LOGS_SUR_GITHUB)](URL_DE_VOTRE_CAPTURE_D_ECRAN_LOGS_SUR_GITHUB)
+[![Logs Anti-Spam](Capture%20d'%C3%A9cran%202025-10-28%20163129.png)](Capture%20d'%C3%A9cran%202025-10-28%20163129.png)
 *Logs montrant la détection d'anomalie par Isolation Forest et le blocage par l'anti-spam.*
 
 ## 🏗️ Architecture Système
